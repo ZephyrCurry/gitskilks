@@ -1,4 +1,4 @@
-# gitskilks
+# gitskills
 
 yoyoyo
 
